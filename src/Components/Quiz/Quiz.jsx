@@ -3,7 +3,7 @@ import './Quiz.css'
 
 const Quiz = () => {
   return (
-    <div className="container">
+    <div className='container'>
         <h1>Quiz App</h1>
         <hr />
         <h2>Which device is required for the Internet Connection?</h2>
